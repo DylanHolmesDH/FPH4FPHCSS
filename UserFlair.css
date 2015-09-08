@@ -1,6 +1,17 @@
 /* "This gives the background with the font for the text of the flair. */
 
-a:after{background: #f8f8f8;border: 1px solid #e6e6e6;border-radius: 2px;color: #000000;line-height: 150%;margin-left: 0.5em;margin-right: 3px;padding: 2px 4px;vertical-align: middle;}
+a:after{
+	background: #f8f8f8;
+	border: 1px solid #e6e6e6;
+	border-radius: 20px;
+	color: red;
+	line-height: 150%;
+	margin-right: 2px;
+ margin-left: 1px;
+	padding: 1px 3px;
+	vertical-align: middle;
+ 
+}
 
 /* "Verified Shitlord" flair FOLLOW THE WAY FLAIRS ARE SETUP */
 a[href$="/user/shitlordcaligula"]:after,
