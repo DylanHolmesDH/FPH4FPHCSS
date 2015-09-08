@@ -12,10 +12,11 @@ a:after{
 	vertical-align: middle;
  
 }
+/* Moderator Flairs */
+a[href$="/user/The_Penis_Wizard"]:after { background: #DF0101;content: "Literally Hitler"; }
 
 /* "Verified Shitlord" flair FOLLOW THE WAY FLAIRS ARE SETUP */
 a[href$="/user/shitlordcaligula"]:after,
-a[href$="/user/Camamoow"]:after,
 a[href$="/user/NotMrS"]:after,
 a[href$="/user/PM_ME_UR_SOURCE_CODE"]:after,
 a[href$="/user/E_Neutrality"]:after,
