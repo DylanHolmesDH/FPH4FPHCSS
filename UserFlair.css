@@ -233,6 +233,7 @@ a[href$="/user/Raylan"]:after
 { content: "Verified Shitlord"; }
 
 /* "Verified Shitlady" flair */
+a[href$="/user/thinbulina"]:after,
 a[href$="/user/TattooedWife"]:after,
 a[href$="/user/FPHForever"]:after,
 a[href$="/user/thisuserhatesyou"]:after,
