@@ -343,7 +343,9 @@ a[href$="/user/theepilepticferret"]:after,
 a[href$="/user/Chronicallydieting"]:after,
 a[href$="/user/Cyracs"]:after,
 a[href$="/user/SSfriendship"]:after,
-a[href$="/user/jdkthekid"]:after
+a[href$="/user/jdkthekid"]:after,
+a[href$="/user/Randomninja"]:after,
+a[href$="/user/dropkickbooties"]:after
 { content: "Verified Shitlady"; }
 
 /* This makes it so flairs don't show up at the top of the page.  */
