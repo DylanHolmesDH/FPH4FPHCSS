@@ -239,6 +239,7 @@ a[href$="/user/ThisIsMyRealName"]:after,
 a[href$="/user/prisonersandpriests"]:after,
 a[href$="/user/L1amas"]:after,
 a[href$="/user/theunrighteous"]:after,
+a[href$="/user/AmIRelevantYet"]:after,
 a[href$="/user/MetaTrauma_Shitlord"]:after
 { content: "Verified Shitlord"; }
 
