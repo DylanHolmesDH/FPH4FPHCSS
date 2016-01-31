@@ -366,5 +366,9 @@ a[href$="/user/MeeblesMerble"]:after,
 a[href$="/user/madam_psycho_sexy"]:after
 { content: "Verified Shitlady"; }
 
+/* Verified Shitbitch */
+a[href$="/user/MeeblesMerble"]:after
+{ content: "Verified Shitbitch"; }
+
 /* This makes it so flairs don't show up at the top of the page.  */
  a[title="Profile"]:after,a.upvoatsGiven:after{content:none;}
