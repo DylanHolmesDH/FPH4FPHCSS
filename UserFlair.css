@@ -18,7 +18,6 @@ a[href$="/user/The_Penis_Wizard"]:after { background: #DF0101;content: "Literall
 /* "Verified Shitlord" flair FOLLOW THE WAY FLAIRS ARE SETUP */
 a[href$="/user/shitlordcaligula"]:after,
 a[href$="/user/prisonersandpriests"]:after,
-a[href$="/user/buttmuffins123"]:after,
 a[href$="/user/NotMrS"]:after,
 a[href$="/user/PM_ME_UR_SOURCE_CODE"]:after,
 a[href$="/user/E_Neutrality"]:after,
@@ -250,6 +249,7 @@ a[href$="/user/MetaTrauma_Shitlord"]:after
 
 /* "Verified Shitlady" flair */
 a[href$="/user/thinbulina"]:after,
+a[href$="/user/buttmuffins123"]:after,
 a[href$="/user/TattooedWife"]:after,
 a[href$="/user/CakeTrap"]:after,
 a[href$="/user/FPHForever"]:after,
@@ -368,7 +368,6 @@ a[href$="/user/curvygirl"]:after,
 a[href$="/user/HorsesHateHams"]:after,
 a[href$="/user/twhitucr"]:after,
 a[href$="/user/MeeblesMerble"]:after,
-a[href$="/user/ButtMuffins123"]:after,
 a[href$="/user/madam_psycho_sexy"]:after
 { content: "Verified Shitlady"; }
 
