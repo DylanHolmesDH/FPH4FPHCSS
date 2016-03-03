@@ -242,6 +242,7 @@ a[href$="/user/theunrighteous"]:after,
 a[href$="/user/AmIRelevantYet"]:after,
 a[href$="/user/HateCumbuckets"]:after,
 a[href$="/user/Fitblue"]:after,
+a[href$="/user/wmeth"]:after,
 a[href$="/user/MetaTrauma_Shitlord"]:after
 { content: "Verified Shitlord"; }
 
@@ -365,6 +366,7 @@ a[href$="/user/curvygirl"]:after,
 a[href$="/user/HorsesHateHams"]:after,
 a[href$="/user/twhitucr"]:after,
 a[href$="/user/MeeblesMerble"]:after,
+a[href$="/user/ButtMuffins123"]:after,
 a[href$="/user/madam_psycho_sexy"]:after
 { content: "Verified Shitlady"; }
 
